@@ -21,3 +21,21 @@ h1 {
     background: rgb(255, 255, 255); 
     border-radius: 15%;
 }
+.project img {
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+  border: 2px solid rgb(126, 14, 201); /* You can change the color */
+  display: block;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+  color: purple;
+}
+
+.project p {
+  text-align: center;
+  margin: 15px;
+}
